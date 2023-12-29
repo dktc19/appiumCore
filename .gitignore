@@ -1,0 +1,9 @@
+target/*
+logs/*
+.settings/*
+.classpath
+.project
+.idea/*
+.vscode/*
+sauce_appium_junit.iml
+test.txt

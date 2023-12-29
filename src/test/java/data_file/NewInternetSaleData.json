@@ -1,0 +1,110 @@
+{
+  "customer_phone_number": "0846004849",
+  "implement_unit": "TIN/PNC",
+  "package_max": "FTTH - Super80/6T",
+  "button_select": "Chọn",
+  "button_unselected": "Bỏ chọn",
+
+  "title_order_creation": "Tạo đơn hàng",
+  "title_combo_services": "Combo gợi ý cho bạn",
+  "title_services_list": "Dịch vụ lẻ",
+  "title_implementation": "Triển khai",
+  "title_device": "Bộ thiết bị",
+  "title_add_on_internet_service": "Dịch vụ Add-on Internet",
+  "title_no": "Không",
+  "title_yes": "Có",
+  "title_extra_net_ultrafast": "Extra Net - UltraFast",
+  "title_extra_net_fsafe": "Extra Net - Fsafe",
+
+  "list_combo_name": [
+    "FTTH - Super80/7T, Max/7T",
+    "FTTH - Super80/7T, VIP/7T",
+    "FTTH - Super80/7T, Cloud 3 ngày/7T"
+  ],
+  "list_service_info_of_first_super80_combo": [
+    "Gói dịch vụ Internet",
+    "Bộ thiết bị",
+    "Gói dịch vụ FPT Play",
+    "Thiết bị Box 1"
+  ],
+  "list_service_packages_internet_services": [
+    "FTTH - Super100",
+    "FTTH - Super150",
+    "FTTH - Super200",
+    "FTTH - Super250",
+    "FTTH - Super30",
+    "FTTH - Super400",
+    "FTTH - Super500",
+    "FTTH - Super80",
+    "Giga",
+    "LUX - 500",
+    "LUX - 800",
+    "Meta",
+    "Sky"
+  ],
+  "list_genres_of_data_package_internet_services": [
+    "Gói 1T (Trả sau)",
+    "Gói 3T (3T+0)",
+    "Gói 6T (6T+0)",
+    "Gói 7T (6T+1)",
+    "Gói 12T (12T+0)",
+    "Gói 13T (12T+1)",
+    "Gói 14T (12T+2)",
+    "Gói 25T (24T+1)",
+    "Gói 26T (24T+2)"
+  ],
+  "list_devices_internet_add_on_internet": [
+    "G-97RG6M",
+    "Archer C2",
+    "Internet Hub AC1000F",
+    "Internet Hub AC1000C V2",
+    "Internet Hub AC1000Z",
+    "G-97RG3",
+    "Archer C5",
+    "Internet Hub N300C"
+  ],
+  "list_service_packages_add_on_internet": [
+    "FSafe",
+    "Đặt cọc thuê bao",
+    "UltraFast"
+  ],
+  "list_genres_of_data_package_add_on_internet": [
+    "Gói 1T (Trả sau)",
+    "Gói 6T (6T+0)",
+    "Gói 6.5T (6T+0.5)",
+    "Gói 7T (6T+1)",
+    "Gói 8T (6T+2)",
+    "Gói 12T (12T+0)",
+    "Gói 13T (12T+1)",
+    "Gói 14T (12T+2)",
+    "Gói 15T (12T+3)",
+    "Gói 16T (12T+4)",
+    "Gói 24T (24T+0)"
+  ],
+
+  "notice_none_service_chosen": "Vui lòng chọn thông tin dịch vụ.",
+  "notice_none_choose_service_package": "Xin vui lòng chọn gói dịch vụ Internet",
+  "notice_none_choose_data_package": "Xin vui lòng chọn gói tính cước dịch vụ Internet",
+  "notice_none_choose_implement_unit": "Xin lòng chọn thông tin triển khai dịch vụ Internet",
+  "notice_none_choose_service_package_add_on_internet": "Xin vui lòng chọn gói dịch vụ",
+  "notice_none_choose_data_package_add_on_internet": "Xin vui lòng chọn gói tính cước dịch vụ Extra Net - Fsafe",
+  "notice_none_choose_implement_unit_add_on_internet": "Xin lòng chọn thông tin triển khai dịch vụ",
+
+
+
+
+
+
+
+
+
+  "regex__customer_address": "^.*?(?=,)",
+  "title_service": "Dịch vụ",
+  "dropdown_service_package": "Gói dịch vụ",
+  "dropdown_data_package": "Gói tính cước",
+  "title_service_package": "Chọn gói dịch vụ",
+  "title_data_package": "Chọn gói tính cước",
+  "button_shopping_cart": "Chi tiết giỏ hàng",
+  "title_bought_service": "Dịch vụ được mua",
+  "title_shopping_cart_screen": "Chi tiết"
+}

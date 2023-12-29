@@ -1,0 +1,44 @@
+{
+  "title_payment_method": "Chọn phương thức thanh toán",
+  "title_payment_method_popup": "Phương thức thanh toán",
+  "title_chosen_service_detail": "Chi tiết dịch vụ",
+  "title_price_command_list": "Danh sách câu lệnh giá",
+  "title_detail_price_command": "Chi tiết câu lệnh giá",
+  "title_monthly_service_fee_payment_method": "Đăng ký hình thức thanh toán cước hàng tháng",
+  "title_monthly_service_fee_payment_method_popup": "Hình thức thanh toán cước hàng tháng",
+  "title_voucher_popup": "Mã ưu đãi",
+  "title_input_voucher": "Nhập mã giới thiệu/mã ưu đãi",
+  "button_create_order": "Tạo đơn hàng",
+
+  "text_regex_price": "\\d+.\\d{3}.\\d{3}\\sđ",
+  "text_price": "1.1158.000 đ",
+  "text_voucher_hint": "Nhập mã giới thiệu",
+  "text_voucher_exist": "MATONTAI",
+  "text_voucher_none_exist": "GTBB",
+
+  "list_payment_method": [
+    "Tiền mặt",
+    "TPBank-mPOS",
+    "FoxPay-QR",
+    "Napas",
+    "FoxPay"
+  ],
+  "list_price_command_ftth_super80": [
+    "Basic Net 7T 1158k/7T",
+    "Basic FPT Play 7T 462k/7T",
+    "55K/1 FPT TV 4K FX6 mới/SL1-1"
+  ],
+  "list_monthly_service_payment_method": [
+    "Tại địa chỉ khách hàng",
+    "Qua Ngân hàng(ATM/Chuyển khoản/SMS/Tại quầy ngân hàng ...)",
+    "Khấu trừ tự động qua ngân hàng",
+    "Qua đối tác thu hộ tại quầy (FPT shop/Payoo)",
+    "Thanh toán Online FPT Telecom",
+    "Qua đối tác thu hộ online (VNPay/ VTC/Moca/Ví Momo/TCB-Mobile)",
+    "Thanh toán tự động FPT Telecom",
+    "Tại quầy giao dịch của FPT Telecom"
+  ],
+
+  "notice_id_card_used_before": "Địa chỉ và CMND/CCCD/Mã số thuế này đã được sử dụng trước đó. Bạn có muốn tiếp tục tạo đơn hàng không?",
+  "notice_none_exist_voucher": "Mã voucher không tồn tại. Vui lòng nhập lại."
+}

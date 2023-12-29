@@ -1,0 +1,151 @@
+{
+  "customer_phone_number": "0779967697",
+  "fpt_play_package": "Play",
+  "button_confirm_fpt_play": "Xác",
+  "dropdown_service_package_fpt_play": "Lựa chọn gói dịch vụ",
+  "dropdown_data_package_fpt_play": "Lựa chọn",
+  "text_box_input_phone_number_fpt_play": "Nhập số điện thoại",
+
+  "title_fpt_play": "FPT Play",
+  "title_order_creation": "Tạo đơn hàng",
+  "title_fpt_play_service_screen": "Dịch vụ FPT Play",
+  "title_choose_service_package_fpt_play": "Chọn gói dịch vụ",
+  "title_choose_data_package_fpt_play": "Chọn gói tính cước",
+  "title_implementation_fpt_play": "Triển khai",
+  "title_DeviceBox1": "Thiết bị Box 1",
+  "title_DeviceBox2": "Thiết bị Box 2",
+  "title_ExtraServiceFPTPlay": "Dịch vụ extra FPT Play",
+  "title_No": "Không",
+  "title_input_phone_fpt_play_service": "Số điện thoại sử dụng dịch vụ",
+  "title_service_information": "Thông tin dịch vụ",
+  "title_service_fpt_play_package": "Gói dịch vụ FPT Play",
+
+  "list_service_package_fpt_play": [
+    "iZi",
+    "Max",
+    "VIP"
+  ],
+  "list_data_package_fpt_play": [
+    "Gói 1T (Trả sau)",
+    "Gói 3T (3T+0)",
+    "Gói 6T (6T+0)",
+    "Gói 6.5T (6T+0.5)",
+    "Gói 7T (6T+1)",
+    "Gói 12T (12T+0)",
+    "Gói 13T (12T+1)",
+    "Gói 14T (12T+2)",
+    "Gói 25T (24T+1)",
+    "Gói 26T (24T+2)",
+    "Gói 28T (24T+3)",
+    "Gói 26T (26T+0)"
+  ],
+  "list_type_of_devices_in_device_box": [
+    "Vât tư IPTV",
+    "Vat tu FPT Play box"
+  ],
+  "list_choose_devices_in_device_box": [
+    "FPT Play Box S550",
+    "FPT Play Box T550",
+    "FPT Play Box T590",
+    "FPT Play Box 650",
+    "Box 4K",
+    "FPT TV 4K FX6"
+  ],
+  "list_implement_devices_in_device_box": [
+    "TIN/PNC",
+    "Sale",
+    "Quầy"
+  ],
+  "list_title_device_box": [
+    "Chọn loại thiết bị",
+    "Chọn thiết bị",
+    "Tình trạng thiết bị",
+    "Thu hồi thiết bị cũ",
+    "Triển khai"
+  ],
+  "list_device_status": [
+    "Tình trạng thiết bị",
+    "Mới"
+  ],
+  "list_collect_old_devices": [
+    "Thu hồi thiết bị cũ",
+    "Không"
+  ],
+  "list_title_device_box_2": [
+    "Chọn loại thiết bị",
+    "Chọn thiết bị",
+    "Tình trạng thiết bị",
+    "Thu hồi thiết bị cũ",
+    "Số lượng",
+    "Triển khai"
+  ],
+  "list_choose_devices_in_device_box_2": [
+    "FPT Play Box S550",
+    "FPT Play Box T550",
+    "FPT Play Box S500",
+    "FPT Play Box T590",
+    "Box 4K",
+    "FPT TV 4K FX6"
+  ],
+  "list_service_package_extra_fpt_play": [
+    "K+",
+    "Galaxy Play Cao Cấp",
+    "Galaxy Play Chuẩn"
+  ],
+  "list_data_package_extra_fpt_play": [
+    "Gói 1T (Trả sau)",
+    "Gói 1T (1T+0)",
+    "Gói 3T (3T+0)",
+    "Gói 4T (4T+0)",
+    "Gói 6T (6T+0)",
+    "Gói 7T (6T+1)",
+    "Gói 8T (8T+0)",
+    "Gói 12T (12T+0)",
+    "Gói 13T (13T+0)",
+    "Gói 14T (14T+0)",
+    "Gói 15T (15T+0)",
+    "Gói 16T (16T+0)",
+    "Gói 24T (24T+0)",
+    "Gói 25T (25T+0)",
+    "Gói 26T (26T+0)",
+    "Gói 27T (27T+0)",
+    "Gói 28T (28T+0)"
+  ],
+  "list_implement_extra_fpt_play": [
+    "Triển khai",
+    "Không"
+  ],
+  "list_title_extra_fpt_play": [
+    "Chọn gói dịch vụ",
+    "Chọn gói tính cước",
+    "Số lượng tính cước",
+    "Triển khai"
+  ],
+
+
+  "notice_none_choose_service_package_fpt_play": "Vui lòng chọn gói dịch vụ FPT Play.",
+  "notice_none_choose_data_package_fpt_play": "Vui lòng chọn gói tính cước dịch vụ FPT Play.",
+  "notice_none_choose_implementation_fpt_play": "Vui lòng chọn thông tin triển khai dịch vụ FPT Play.",
+  "notice_none_input_phone_number_fpt_play": "Vui lòng nhập số điện thoại sử dụng dịch vụ FPT Play.",
+  "notice_device_box_1_2_deleted": "Thiết bị Box 1 và Thiết bị Box 2 đã xóa khi thay đổi thông tin đã chọn ở Gói dịch vụ FPT Play",
+  "notice_none_set_device_type_in_device_box_1": "Vui lòng chọn loại thiết bị Box 1.",
+  "notice_none_set_device_in_device_box_1": "Vui lòng chọn thiết bị Box 1.",
+  "notice_none_set_device_status_in_device_box_1": "Vui lòng chọn tình trạng thiết bị Box 1.",
+  "notice_none_set_old_device_collection_in_device_box_1": "Vui lòng chọn tình trạng thu hồi thiết bị Box 1.",
+  "notice_none_set_implementation_unit_in_device_box_1": "Vui lòng chọn thông tin triển khai thiết bị Box 1.",
+  "notice_none_set_device_type_in_device_box_2": "Xin vui lòng chọn loại thiết bị Box 2.",
+  "notice_none_set_device_in_device_box_2": "Xin vui lòng chọn thiết bị Box 2.",
+  "notice_none_set_device_status_in_device_box_2": "Xin vui lòng chọn tình trạng thiết bị Box 2.",
+  "notice_none_set_old_device_collection_in_device_box_2": "Xin vui lòng chọn tình trạng thu hồi thiết bị Box 2.",
+  "notice_none_set_quantity_device_in_device_box_2": "Xin vui lòng chọn số lượng thiết bị Box 2.",
+  "notice_none_set_implementation_unit_in_device_box_2": "Xin vui lòng chọn thông tin triển khai thiết bị Box 2.",
+  "notice_none_set_service_package_extra_fpt_play": "Vui lòng chọn gói dịch vụ Extra FPT Play.",
+  "notice_none_set_data_package_extra_fpt_play": "Vui lòng chọn gói tính cước dịch vụ Extra FPT Play.",
+  "notice_none_set_quantity_package_extra_fpt_play": "Vui lòng chọn số lần tính cước dịch vụ Extra FPT Play.",
+  "notice_none_set_implement_extra_fpt_play": "Vui lòng chọn thông tin triển khai dịch vụ Extra FPT Play.",
+  "notice_max_package_choose_over_3_devices": "Gói dịch vụ Max của Dịch vụ FPT Play chỉ được phép mua tối đa 3 thiết bị. Xin vui lòng chọn lại",
+  "notice_set_box2_without_box_1": "Vui lòng chọn Thiết bị Box 1.",
+  "notice_vip_package_choose_over_5_devices": "Gói dịch vụ VIP của Dịch vụ FPT Play chỉ được phép mua tối đa 5 thiết bị. Xin vui lòng chọn lại",
+  "notice_extra_box_greater_device_box": "Số lượng extra theo Box không vượt quá số lượng Box đã chọn.",
+  "notice_set_extra_package_without_fpt_play_package": "Chưa chọn gói dịch vụ truyền hình"
+}

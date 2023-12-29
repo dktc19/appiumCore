@@ -1,0 +1,74 @@
+{
+  "title_book_port": "Book Port",
+  "title_create_order": "Tạo đơn hàng",
+  "title_ftth_new": "FTTH NEW",
+  "title_ftth": "FTTH",
+  "title_adsl": "ADSL",
+  "title_customer_address": "Địa chỉ khách hàng",
+  "title_grid_type": "loại cáp",
+  "title_contract_type": "Loại hợp đồng",
+  "title_choose_payment_method": "Chọn phương thức thanh toán",
+  "button_no_allow_app_access_location": "Don't allow",
+
+  "dropdown_input_data_manual_book_port": "Lựa chọn",
+
+  "text_negative_integer": "-12",
+  "text_special_character": "#$%^!",
+
+  "list_title_manual_book_port": [
+    "Địa chỉ tập điểm",
+    "Loại hạ tầng",
+    "Loại gói",
+    "Pop",
+    "Tập điểm",
+    "Port",
+    "Chiều dài Indoor (m)",
+    "Chiều dài Outdoor (m)"
+  ],
+
+  "list_book_port_detail": [
+    "Thông số kỹ thuật",
+    "Tập điểm",
+    "Port",
+    "Pop",
+    "Chiều dài Indoor",
+    "Chiều dài Outdoor",
+    "Công nghệ"
+  ],
+
+  "notice_book_port_success": "Book Port tự động thành công",
+  "notice_recall": "Đã thu hồi port thành công.",
+  "notice_auto_book_port_fail": "Book Port tự động thất bại. Hệ thống chuyển qua book port thủ công.",
+  "notice_none_set_indoor_index": "Vui lòng chọn nhập chiều dài Indoor.",
+  "notice_none_set_outdoor_index": "Vui lòng chọn nhập chiều dài Outdoor.",
+  "notice_none_set_grid_type": "Vui lòng chọn loại cáp.",
+  "notice_none_set_contract_type": "Vui lòng chọn loại hợp đồng.",
+  "notice_manual_book_port_fail": "Book Port thủ công thất bại.",
+  "notice_manual_book_port_success": "Book Port thủ công thành công.",
+  "notice_overtime_to_book_port": "Port tạm đã hết hạn. Vui lòng tiến hành book port lại.",
+
+
+
+
+
+
+
+  "title_manual_book_port": "Bookport thủ công",
+  "text_box_input_data_manual_book_port": "Nhập thông tin",
+  "button_allow_app_access_location": "While using the app",
+
+  "notification_none_book_port": "Vui lòng thực hiện thao tác bookport trước khi tạo đơn hàng.",
+
+  "list_grid_type": [
+    "Loại 1 nhân (1 core)",
+    "Loại 2 nhân (2 core)"
+  ],
+  "list_contract_type": [
+    "Hợp đồng loai 1",
+    "Hợp đồng loại 2"
+  ],
+  "list_indoor_outdoor_index": [
+    "1",
+    "10"
+  ]
+}

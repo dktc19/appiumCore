@@ -1,0 +1,390 @@
+{
+  "text_box_id_published_place": "nơi",
+  "text_box_address_on_id_card": "Nhập địa chỉ trên CMND/CCCD/Hộ chiếu",
+  "text_box_established_date": "Ngày thành lập *",
+  "title_address_on_business_allowance": "Địa chỉ trên GPKD *",
+  "title_organize_phone": "Số điện thoại tổ chức/doanh nghiệp *",
+  "title_bank_account": "Tài khoản ngân hàng",
+  "text_box_bank_account": "Nhập số tài khoản",
+  "title_representative": "Người đại diện",
+  "title_birthday_in_representative_field": "Ngày sinh",
+  "title_id_card_in_representative_field": "Số CMND/CCCD/Hộ chiếu",
+  "title_special_customer": "Khách hàng đặc biệt",
+  "title_address_note": "Ghi chú địa chỉ",
+  "title_implement_note": "Ghi chú triển khai",
+  "text_box_block_number": "Nhập số lô",
+  "text_box_floor_number": "Nhập số tầng",
+  "text_box_room_number": "Nhập số phòng",
+  "text_box_address_note": "Nhập nội dung ghi chú về địa chỉ",
+  "text_box_implement_note": "Nhập nội dung ghi chú về triển khai",
+  "text_box_house_number": "Nhập số nhà",
+  "title_set_up_location": "Địa chỉ lắp đặt",
+  "dropdown_apartment_selection": "Lựa chọn chung cư",
+  "title_address_on_receipt": "Địa chỉ trên hóa đơn",
+  "dropdown_house_pointer": "Lựa chọn vị trí nhà",
+  "title_address_to_collect_fee": "Địa chỉ thu cước",
+  "type": "Loại hình *",
+  "customer_type": "Loại khách hàng *",
+  "name": "Họ tên *",
+  "title_birthday": "Ngày sinh *",
+  "id": "Số CMND/CCCD/Hộ chiếu *",
+  "text_box_id_number": "Nhập số CMND/CCCD/Hộ chiếu",
+  "title_date_of_issue": "Ngày cấp *",
+  "title_place_of_issue": "Nơi cấp *",
+  "gender": "Giới tính *",
+  "address_on_id": "Địa chỉ trên CMND/CCCD/Hộ chiếu *",
+  "marketing_channel": "Kênh tiếp thị",
+  "selector_marketing_channel": "Lựa chọn kênh tiếp thị",
+  "district": "Quận/Huyện *",
+  "ward": "Xã/Phường *",
+  "street": "Tên đường *",
+  "type_of_house": "Loại nhà *",
+  "house_number": "Số nhà *",
+  "title_implement_process": "Tiến độ triển khai",
+  "button_front_image": "Ảnh mặt trước",
+  "button_behind_image": "Ảnh mặt sau",
+  "title_other_isp_file_image": "Ảnh hồ sơ ISP khác *",
+
+  "list_tab_add_images": [
+    "CMND",
+    "Hộ",
+    "Giấy"
+  ],
+  "birthday": [
+    "2000",
+    "5",
+    "24"
+  ],
+  "id_issue_date": [
+    "2015",
+    "7",
+    "11"
+  ],
+
+  "list_id_card_update": [
+    "NGUYỄN VĂN",
+    "14/06/1999",
+    "PHƯỜNG 14, QUẬN 7, THÀNH PHỐ HỒ CHÍ MINH"
+  ],
+
+  "input_name_id_card": "NGÔ TẤT TỐ",
+  "setup_district": "Q10",
+  "setup_ward": "Phường 6",
+  "setup_street": "Cách Mạng Tháng Tám",
+  "setup_house_type": "Nhà phố",
+  "setup_house_number": "23",
+
+  "used_type_personal": "Cá nhân",
+  "used_type_organize": "Tổ chức",
+  "customer_type_family": "Gia đình/Hộ gia đình",
+  "customer_type_student": "Học sinh, sinh viên",
+  "customer_type_stranger": "KH nước ngoài",
+
+  "special_character": "@#$!%&",
+  "area_code_phone_number": "+84779967697",
+
+  "marketing_channel_D2D": "Nguồn D2D",
+  "marketing_channel_online": "Nguồn online",
+
+  "list_title_organize_type": [
+    "Tên tổ chức/doanh nghiệp *",
+    "Mã số thuế/Mã số ĐKKD *",
+    "Ngày cấp *",
+    "Nơi cấp *",
+    "Ngày thành lập *",
+    "Địa chỉ trên GPKD *",
+    "Số điện thoại tổ chức/doanh nghiệp *",
+    "Tài khoản ngân hàng",
+    "Người đại diện"
+  ],
+
+  "list_option_customer_type": [
+    "Doanh nghiệp",
+    "Cơ quan nhà nước",
+    "Đơn vị sự nghiệp",
+    "ĐSQ, Tổ chức phi chính phủ",
+    "Đại lý Internet",
+    "KH nước ngoài"
+  ],
+  "organize_name": "FPT Telecom",
+  "tax_code": "0317464963",
+  "place_of_issue_tax": "CHI CỤC THUẾ",
+  "established_date": [
+    "2017",
+    "10",
+    "21"
+  ],
+  "address_on_business_allowance": "FPT Tân Thuận 3 Đường Sáng tạo Phường Tân Thuận Đông Quận 7 TPHCM",
+  "email_address": "qctest@gmail.com",
+  "account_number": "1234567897",
+  "bank_name": "ABCD bank",
+
+  "special_customer": [
+    "ISP khác",
+    "KH đối ngoại",
+    "Nhà báo",
+    "Chuỗi dự án/ KH nhiều HĐ",
+    "Nhà trọ/ cho thuê",
+    "Ký túc xá",
+    "F-Citizen",
+    "Đối tượng khác"
+  ],
+  "house_types": [
+    "Nhà phố",
+    "C.Cư, C.Xá, Chợ, Thương xá",
+    "Nhà không địa chỉ"
+  ],
+  "option_house_pointer": [
+    "Kế bên phải",
+    "Kế bên trái",
+    "Đối diện",
+    "Phía sau",
+    "Cách"
+  ],
+  "title_options_of_apartment": [
+    "Tên chung cư *",
+    "Số lô",
+    "Số tầng *",
+    "Số phòng *"
+  ],
+  "info_apartment": [
+    "12",
+    "8",
+    "804"
+  ],
+  "info_setup_address": [
+    "Q10",
+    "Phường 10",
+    "Đào Duy Từ"
+  ],
+  "info_setup_address_alternative": [
+    "Q11",
+    "Phường 2",
+    "Lạc Long Quân"
+  ],
+  "info_setup_apartment": [
+    "CC Lê Thị Riêng",
+    "3",
+    "301"
+  ],
+  "text": "qc test",
+  "address_on_receipt_content": "Địa chỉ trên hóa đơn mặc định giống địa chỉ lắp đặt",
+  "address_to_collect_fee": "Địa chỉ thu cước mặc định giống địa chỉ lắp đặt",
+  "other_isp_notice": "Nếu khách hàng đặc biệt là Chuyển từ ISP khác vui lòng cung cấp đủ số lượng ảnh hồ sơ theo qui định.",
+  "add_id_card_image": "Chụp ảnh CMND/CCCD/Hộ chiếu giúp nhận diện thông tin khách hàng nhanh chóng.",
+  "add_passport_image": "Chụp ảnh Hộ chiếu giúp nhận diện thông tin khách hàng",
+  "add_other_paper": "Chụp ảnh giấy tờ liên quan giúp nhận diện thông tin khách hàng nhanh chóng.",
+  "notice_add_id_error": "Hệ thống không tìm thấy mặt trước CMND/CCCD trong ảnh hoặc ảnh có chất lượng kém.",
+  "title_add_file_images": "Thêm ảnh giấy tờ",
+  "notice_update_id_follow_image": "Bạn có muốn thay đổi thông tin cá nhân dựa trên CMND/CCCD không?",
+  "title_passport_images": "Ảnh Hộ chiếu *",
+  "notice_passport_images": "Chụp ảnh Hộ chiếu giúp nhận diện thông tin khách hàng nhanh chóng.",
+  "notice_update_from_change_image": "Bạn có muốn thay đổi thông tin cá nhân dựa trên CMND/CCCD không?",
+  "notice_change_verified_images_to_other": "Bạn có muốn thay đổi ảnh hồ sơ khách hàng không?",
+  "title_address_invoice": "Chỉnh sửa địa chỉ hóa đơn",
+  "title_address_fee_at_home": "Chỉnh sửa địa chỉ thu cước",
+  "notice_insufficient_image_supply": "Vui lòng cung cấp đầy đủ số lượng ảnh CMND/Hộ chiếu/Giấy tờ khác, định dạng ảnh đúng quy định.",
+  "notice_insufficient_info_supply": "Vui lòng nhập đầy đủ hoặc kiểm tra lại thông tin khách hàng.",
+
+
+
+
+
+
+
+
+
+
+  "title_AllServicesScreen": "Tất cả dịch vụ",
+  "title_order": "Đơn",
+  "title_all": "Tất",
+  "selling_goods_option": "Bán",
+  "text_box_search_contract": "Nhập từ khóa tìm kiếm",
+  "text_paid_contract": "SGAAS5208",
+  "title_AddressInfo": "Thông tin địa chỉ",
+  "textBox_AddressSearching": "Nhập địa chỉ muốn tìm kiếm",
+  "button_Searching": "Tìm kiếm",
+  "title_AddressSearchScreen": "Tìm kiếm địa chỉ",
+  "title_OtherProduct": "Sản",
+  "title_Internet": "Internet",
+  "title_create_order": "Tạo đơn hàng",
+  "dropdown_gender_default": "Lựa",
+  "text_box_phone_number": "Nhập số điện thoại",
+  "phone_number": "0779967697",
+  "title_customer_info": "Thông tin khách hàng",
+  "title_service_info": "Thông tin dịch vụ",
+  "title_cus_type": "Đối tượng khách hàng",
+  "dropdown_address_default": "Lựa chọn",
+  "button_view_all": "Xem tất cả",
+  "title_suggest_combo": "Combo gợi ý cho bạn",
+  "title_suggest_package": "Internet, FPT Play",
+  "title_detail": "Chi tiết",
+  "dropdown_service_package": "dịch",
+  "dropdown_data_package": "tính",
+  "title_buy_more_services": "Mua thêm dịch vụ",
+  "button_change_id_image": "Thay đổi ảnh",
+  "text_address": "100 Lê Trọng Tấn",
+  "text_address_2": "300 Huỳnh Tấn Phát",
+  "button_allow_of_notification": "Allow",
+  "text_box_input_organize_name": "tổ",
+  "text_box_tax_code": "giấy",
+  "text_box_date_issue": "ngày",
+  "text_box_place_issue": "nơi",
+  "text_box_date_of_publish": "ngày",
+  "text_box_address_on_business_allowance": "ĐKKD",
+  "text_box_organize_phone": "điện",
+  "title_mail": "email",
+  "text_field_mail": "email",
+  "text_box_input_phone": "điện",
+  "text_box_name_input": "tên",
+  "text_device_name": "Internet Hub",
+  "title_list_price_command": "Danh sách câu lệnh giá",
+  "text_price_command": "dịch vụ trong combo",
+  "button_select_price_command": "Chọn",
+  "title_result_after_price_command_selected": "Cập nhật giá",
+  "title_monthly_payment_way_dropdown": "Hình thức thanh toán cước hàng tháng",
+  "text_none_monthly_payment_way": "Không có thanh toán cước",
+  "dropdown_device_type": "Loại thiết bị",
+  "title_device_type": "Chọn loại thiết bị",
+  "dropdown_device": "Thiết bị",
+  "title_device": "Chọn thiết bị",
+  "text_box_quantity_device": "lượng",
+  "dropdown_implementation_unit": "đơn",
+  "option_cash_payment": "Tiền mặt",
+  "option_cod_cash_payment": "Tiền mặt COD",
+  "title_payment_method": "Chọn phương thức thanh toán",
+  "text_device_smart_home": "CTCU 1 chu nhat trang BLE SNBR011",
+  "text_device_smart_home_zero_cost": "CTCU",
+  "text_device_smart_home_without_tin": "Den LED downlight 90/7W BLE LDBR012",
+  "text_smart_home_device_quantity": "2",
+  "option_tin_pnc": "TIN/PNC",
+  "title_smart_home": "Smart",
+  "title_unpaid": "Chưa thanh toán",
+  "title_order_tracking": "Theo dõi đơn hàng",
+  "title_completed_contract": "Đã hoàn tất",
+  "title_detail_order": "Chi tiết đơn hàng",
+  "title_implementation_progress": "Tiến độ triển khai",
+  "title_supply_id_card": "Thêm ảnh giấy tờ",
+  "button_add_file_image": "Thêm ảnh hồ sơ (Tối đa 5 ảnh)",
+
+  "notification_insufficient_cus_info": "Vui lòng cập nhật đầy đủ thông tin khách hàng.",
+  "notification_private_info_used_before": "CMND/CCCD/Mã số thuế này đã được sử dụng trước đó. Bạn có muốn tiếp tục tạo đơn hàng không?",
+  "notification_cod_has_been_existed": "Đơn hàng đã được tạo khoản thu COD. Vui lòng kiểm tra lại.",
+  "notification_payment_succeed": "Thanh toán thành công",
+  "notification_navigation_to_fpt_payment_gateway": "Khách hàng vui lòng thanh toán khoản thu online trên Member/HiFPT/PayFPT",
+  "notification_payment_process_reload": "Đơn hàng này đang trong quá trình kiểm tra thanh toán. Vui lòng thử lại sau ít phút.",
+  "notification_uncompleted_order": "Bạn đang có một đơn hàng trước đó chưa hoàn thành. Bạn có muốn tiếp tục tạo đơn hàng không?",
+
+  "list_address": [
+    "100",
+    "Lê Trọng Tấn"
+  ],
+  "list_address_2": [
+    "300",
+    "Huỳnh Tấn Phát"
+  ],
+  "list_package_service": [
+    "FTTH - Super100",
+    "Gói 6T (6T+0)"
+  ],
+  "list_package_service_2": [
+    "FTTH - Super150",
+    "Gói 7T (6T+1)"
+  ],
+  "list_package": [
+    "FTTH",
+    "Gói"
+  ],
+  "list_gender_option": [
+    "Nam",
+    "Nữ"
+  ],
+  "info_id_card": [
+    "LÂM DƯ LONG",
+    "28/06/2000",
+    "062200007658",
+    "08/06/2022",
+    "CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT TỰ XÃ HỘI",
+    "TRÍ KHỐI 8, THỊ TRẤN ĐẮK TÔ, ĐẮK TÔ, KON TUM"
+  ],
+  "info_id_card_2": [
+    "ĐỜI CẦN",
+    "27/05/1995",
+    "026099003096",
+    "21/06/2021",
+    "CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT TỰ XÃ HỘI",
+    "THÔN 5, ĐẠI ĐỒNG, VĨNH TRƯỜNG, VĨNH PHÚC"
+  ],
+  "list_extra_service": [
+    "IP Front, 8 IP Route",
+    "FSafe",
+    "Đặt cọc thuê bao",
+    "UltraFast"
+  ],
+  "list_cus_type": [
+    "Tổ chức",
+    "Cá nhân",
+    "Khách hàng đặc biệt"
+  ],
+  "list_cus_type_organization": [
+    "Doanh nghiệp",
+    "Cơ quan nhà nước",
+    "Đơn vị sự nghiệp",
+    "ĐSQ, Tổ chức phi chính phủ",
+    "Đại lý Internet",
+    "KH nước ngoài"
+  ],
+  "list_cus_type_individual": [
+    "Gia đình/Hộ gia đình",
+    "Học sinh, sinh viên",
+    "KH nước ngoài"
+  ],
+  "list_cus_type_special": [
+    "ISP khác",
+    "KH đối ngoại",
+    "Nhà báo",
+    "Chuỗi dự án/ KH nhiều HĐ",
+    "Nhà trọ/ cho thuê",
+    "Ký túc xá",
+    "F-Citizen",
+    "Đối tượng khác"
+  ],
+  "list_payment_info_field": [
+    "Voucher",
+    "Tổng tiền",
+    "Chiết khấu",
+    "Thành tiền"
+  ],
+  "list_requested_title_private_cus": [
+    "Họ tên",
+    "Ngày sinh",
+    "Giới tính",
+    "Số điện thoại Giao dịch, liên hệ",
+    "Số CMND/CCCD/Hộ chiếu",
+    "Ngày cấp",
+    "Nơi cấp",
+    "Địa chỉ trên CMND/CCCD/Hộ chiếu"
+  ],
+  "list_way_of_payment_monthly": [
+    "Tại quầy giao dịch của FPT Telecom",
+    "Tại địa chỉ khách hàng",
+    "Qua ngân hàng(ATM/Chuyển khoản/SMS/Tại quầy ngân hàng...)",
+    "Khấu trừ tự động qua ngân hàng",
+    "Qua đối tác thu hộ tại quầy (FPT shop/Payoo)",
+    "Thanh toán Online FPT Telecom",
+    "Qua đối tác thu hộ online (VNPay/ VTC/Moca/Ví Momo/TCB-Mobile)",
+    "Thanh toán tự động FPT Telecom"
+  ],
+  "list_service_of_other_product": [
+    "Tivi",
+    "TVSS75UA75AU7700",
+    "5"
+  ],
+  "list_payment_method": [
+    "Tiền mặt",
+    "Tiền mặt COD",
+    "Napas",
+    "FoxPay-QR",
+    "Trả góp - Foxpay"
+  ]
+}

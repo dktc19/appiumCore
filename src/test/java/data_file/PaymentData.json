@@ -1,0 +1,56 @@
+{
+  "title_implement_progress": "Tiến độ triển khai",
+  "title_scan_qr_code": "Đưa camera vào chính giữa để quét mã",
+
+  "tab_customer_information": "Thông tin KH",
+  "tab_bill": "Tổng tiền",
+  "tab_order_tracking": "Theo dõi DH",
+
+  "text_payment_type": "Tiền mặt",
+  "text_payment_status": "Chưa thanh toán",
+  "text_fpt_play_price": "517.000 đ",
+  "text_bill_paid": "Đã thanh toán",
+  "text_qr_code_payment": "Thanh toán bằng QR Code",
+
+  "list_contract_information_block": [
+    "Mã hợp đồng",
+    "Họ tên",
+    "Địa chỉ",
+    "Số điện thoại"
+  ],
+  "list_bill_information_block": [
+    "Internet",
+    "FPT Play",
+    "Tổng tiền",
+    "Ưu đãi",
+    "Thành tiền",
+    "Phương thức thanh toán",
+    "Trạng thái"
+  ],
+  "list_order_information": [
+    "Mã hợp đồng",
+    "Họ tên",
+    "Tổng tiền"
+  ],
+  "notice_checking_for_payment": "Đang trong thời gian kiểm tra thông tin thanh toán. Vui lòng thử lại sau ít phút nữa.",
+  "notice_none_receive_payment": "Khoản thu chưa thanh toán.",
+
+
+
+
+
+
+
+
+
+
+  "title_contract_information": "Thông tin hợp đồng",
+  "title_order_information": "Thông tin đơn hàng",
+  "title_payment": "Thanh toán",
+  "notice_payment_cod_success": "Thanh toán thành công",
+  "notice_detail_payment_successful": "Quý khách vừa thanh toán thành công",
+  "title_payment_progress": "Đang thanh toán",
+  "title_detail_order": "Chi tiết đơn hàng",
+  "title_return_homepage": "Về trang chủ",
+  "regex_contract_code": ".*(\\SGAAS\\d+).*"
+}

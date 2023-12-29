@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1">
+    <listeners>
+<!--        <listener class-name="net.fpt.listeners.ReportSquashListener" />-->
+        <listener class-name="net.fpt.listeners.ExtentTestNGIReporter" />
+    </listeners>
+
+    <test name="Vegetable garden" preserve-order="false">
+<!--        <parameter name="cucumber.features" value="src/test/java/Features/todo.feature"/>-->
+<!--        <parameter name="cucumber.glue" value="stepDefinitions"/>-->
+        <classes>
+            <class name="MyRunner.RunCucumberByCompositionTest"/>
+        </classes>
+    </test>
+</suite>
+
+
